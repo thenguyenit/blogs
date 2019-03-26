@@ -4,19 +4,34 @@ My name is Nguyen (Johnny), I'm a software engineer mainly interested in web dev
   
 ### SKILLS
 
-- 5 years of experience in web development (LAMP stack).
-- 1,5 years of experience in lead team (2 members).
-- 2 years work with Agile/Scrum development process.
+- 7 years of experience in web development (LAMP stack).
+- 3 years of experience in lead team (2 members).
+- 4 years work with Agile/Scrum development process.
 - Experience in performance and security for web.
 - Experience in scalable structure adaptable large request.
-- Experience in eCommerce and game portal with integration to the third party.
-- Experience in UX/UI on website.
-- Experience in DevOps.
+- Experience in E-commerce and game portal with integration to the third party.
+- Experience basic in DevOps.
 
 
 ### WORD EXPERIENCE
+#### Fossil Vietnam - _Senior developer/SubLead Web/E-commerce team_
+_August 2017 - present_
+
+Project: Skagen - E-commerce website
+
+Role & Achievement:
+
+- Migrating the current website from WebSphere Commerce to Magento 2
+- Integration between Magento with SAP, the payment gateway, Power Review for rating service, Social Content service (Curalate), Salesforce Marketing Cloud,...
+- Working with Devops team to create a Showroom environment that is support for functional testing. This environemt will get continuous integration techniques for building a independent environment for every feature of every engineer. 
+- Working with Project Manager to analyze the requirement from bussiness team and design a techical specification document for developing.
+- Improving performance and security for E-commerce site.
+- Unit testing, CI are the most importance in development cycle. They will increase velocity of a Sprint. 
+
+<br>
+
 #### Rainbow software - _Senior developer_
-_August 2016 - present_
+_August 2016 - August 2017_
 
 Project: One-Lotto - Purchase lottery tickets online
 
