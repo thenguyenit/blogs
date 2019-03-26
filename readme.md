@@ -23,10 +23,10 @@ Role & Achievement:
 
 - Migrating the current website from WebSphere Commerce to Magento 2
 - Integration between Magento with SAP, the payment gateway, Power Review for rating service, Social Content service (Curalate), Salesforce Marketing Cloud,...
-- Working with Devops team to create a Showroom environment that is support for functional testing. This environemt will get continuous integration techniques for building a independent environment for every feature of every engineer. 
-- Working with Project Manager to analyze the requirement from bussiness team and design a techical specification document for developing.
-- Improving performance and security for E-commerce site.
-- Unit testing, CI are the most importance in development cycle. They will increase velocity of a Sprint. 
+- Working with DevOps team to create a Showroom environment that is support for functional testing. This environment will get continuous integration techniques for building an independent environment for every feature of every engineer. 
+- Working with a Project Manager to analyze the requirement from the business team and design a technical specification document for developing.
+- Improving performance and security for the E-commerce site.
+- Unit testing and CI are the most important in the development cycle. They will increase the velocity of a Sprint.
 
 <br>
 
