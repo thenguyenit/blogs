@@ -23,12 +23,14 @@ Project: Skagen - E-commerce website
 
 Role & Achievement:
 
+- Wear in hat of Scrum master, release management, technical lead.
 - Migrating the current website from WebSphere Commerce to Magento 2
-- Integration between Magento with SAP, the payment gateway, Power Review for rating service, Social Content service (Curalate), Salesforce Marketing Cloud,...
-- Working with DevOps team to create a Showroom environment that is support for functional testing. This environment will get continuous integration techniques for building an independent environment for every feature of every engineer. 
+- Integration the website with SAP, the payment gateway, Power Review for rating service, Social Content service (Curalate), Salesforce Marketing Cloud,...
+- Working with DevOps team to create a Showroom environment that is support for functional testing. This environment will get continuous integration techniques for building an independent environment for every feature of every engineer.
 - Working with a Project Manager to analyze the requirement from the business team and design a technical specification document for developing.
 - Improving performance and security for the E-commerce site.
-- Unit testing and CI are the most important in the development cycle. They will increase the velocity of a Sprint.
+- Understanding Unit testing and CI are the most important in the development cycle. They will increase the quality and velocity of a Sprint.
+
 
 <br>
 
