@@ -4,14 +4,16 @@ My name is Nguyen (Johnny), I'm a software engineer mainly interested in web dev
   
 ### SKILLS
 
-- 7 years of experience in web development (LAMP stack).
-- 3 years of experience in lead team (2 members).
-- 4 years work with Agile/Scrum development process.
-- Experience in performance and security for web.
-- Experience in scalable structure adaptable large request.
-- Experience in E-commerce and game portal with integration to the third party.
-- Experience basic in DevOps.
-
+- Optimistic and hardworking 
+- More than 8 years of experience in web development (LAMP stack) and Golang, with both monolithic and microservice architecture.
+- Languages, frameworks: Golang, PHP Laravel, PHP Magento 2 and basic in ReactJS.
+- Databases: MySQL, MongoDB, Elasticsearch.
+- 3 years of experience to lead  a team with size 4 members.
+- Experience to ship and operate many products to the production (AWS Cloud environment)
+- Enjoy working with Agile/Scrum development process and get an Agile certificate of Agile Vietnam. 
+- Experience to profile and improve performance and security for web application.
+- Experience in scalable architecture, CI/CD and testing in development cycle.
+- Basic in RESTful, MicroService, Docker and Cloud Services. 
 
 ### WORD EXPERIENCE
 #### Fossil Vietnam - _Senior developer/SubLead Web/E-commerce team_
