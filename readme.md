@@ -16,8 +16,12 @@ My name is Nguyen (Johnny), I'm a software engineer mainly interested in web dev
 - Basic in RESTful, MicroService, Docker and Cloud Services. 
 
 ### WORD EXPERIENCE
+
+#### Zalora Group - _Senior software engineer_
+_Mar 2020 - present_
+
 #### Fossil Vietnam - _Senior developer/SubLead Web/E-commerce team_
-_August 2017 - present_
+_August 2017 - _August 2019_
 
 Project: Skagen - E-commerce website
 
